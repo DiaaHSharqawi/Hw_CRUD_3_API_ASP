@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hw_3_CRUD.props" />
+</Project>

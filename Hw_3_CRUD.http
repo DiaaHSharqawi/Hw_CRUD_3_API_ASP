@@ -1,0 +1,6 @@
+@Hw_3_CRUD_HostAddress = http://localhost:5155
+
+GET {{Hw_3_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
